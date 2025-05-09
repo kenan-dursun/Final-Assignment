@@ -1,0 +1,22 @@
+body {
+    background-color: #e6e6fa;
+    font-family: 'Verdana', sans-serif;
+    text-align: center;
+    padding: 40px;
+}
+
+.video-container {
+    margin: 25px auto;
+}
+
+.animated-box {
+    width: 220px;
+    height: 50px;
+    margin: 35px auto;
+    background-color: #9370db;
+    line-height: 50px;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 10px;
+    position: relative;
+}
